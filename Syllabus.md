@@ -304,38 +304,42 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 ##### HW: 
 * If you didn’t get to finish this class exercise, The Coding Round Robin part 1, please do for next week:
-The task was to make a project in glitch. The ask was to do the following prompts:
+> The task was to make a project in glitch. The ask was to do the following prompts:
 
-Use <p> tags or <ol><ul> and <li> or <br />tags to make a list of things you would do or buy if you had all of jeff besos’ money. If you missed this assignement and want to answer a simpler question, simply list your favorite movies/or books/or colors so that they are not all in one paragraph but on separate lines. Basically the task if to list items.
+>> 1. Use <p> tags or <ol><ul> and <li> or <br />tags to make a list of things you would do or buy if you had all of jeff besos’ money. If you missed this assignement and want to answer a simpler question, simply list your favorite movies/or books/or colors so that they are not all in one paragraph but on separate lines. Basically the task if to list items.
  
-Find an image online that describes your current mood and add it to your index.html so that we can see it.
-Write out a question that you would like the next student (those name follows yours in the Google Sheet) to answer.
-Open the project of the student whose name follows yours (below) in the Google Sheet) and answer their question through text or image on the next line following their question.
+>> 2. Find an image online that describes your current mood and add it to your index.html so that we can see it.
+
+>> 3. Write out a question that you would like the next student (those name follows yours in the Google Sheet) to answer.
+>>4. Open the project of the student whose name follows yours (below) in the Google Sheet) and answer their question through text or image on the next line following their question.
 
 * Read chapters 10-13 for next week!
 
 
 #### Week 11
 ##### In-class: 
-* Critique: Select students to get class critiques (first half),
-* Lecture: Animations and prototyping continued. Case studies: Telling a story about your design process. 
-* In-class workshop: One-on-ones during work session.
+* Review glitch project by students from last week. Questions?
+* Lecture: HTML part 2 and intro to CSS part I (Color, Type, Boxes).
+* In-class workshop: group work using glitch.com, implementing the HTML and CSS we learned so far! 
 
 ##### HW: 
-* Sign up for final presentations for either week 12 or 13. 
-* Finalize Style Guide and wires. Make sure app has high fi styles applied, even if still in progress. This means no more greyscale wireframes, placeholder images, app names, or placeholder icons.
-* Put together a Design story about our process. 
+* Read chapters 14-17 in the text book!
+
+
 
 
 
 #### Week 12 
-* Critique: Share style guides.
-* Lecture: Accessibility
+* Review glitch project by students from last week. Questions? 
+* Lecture: accessibility in web design.
+* Lecture: CSS part II (lists, tables, forms and images, responsive layout).
+* Go over final project: simple, mobile-fiendly responsibe site. 
+* In-class workshop: group work using glitch.com, implementing the HTML and CSS we learned so far! 
 
-* Final presentation and group critue part 2.
-Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
 
 #### Week 13 
-* Final presentation and group critue part 2.
-Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
+* Work-in class session: work on your final project is a a simple, responsive site based on the culmination of your Glitch projects that you worked on in class and for homework. I will be here to help!
+
+#### Week 14 
+* Final group croque and resposive website share-out!
