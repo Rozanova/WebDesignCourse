@@ -31,7 +31,7 @@ On phase two of the course, the website “development” portion, is where stud
 
 
 ### Tools we will use:
-Fima (or Adobe XD, if you prefer. I cover both), Google Jam Board, a blog (like Medium, Tumblr, or a blog of your choice), are.na (or Pinterest), and Slack. 
+[Figma](https://www.figma.com/) (or Adobe XD, if you prefer. I cover both), Google Jam Board, a blog (like Medium, Tumblr, or a blog of your choice), are.na (or Pinterest), and Slack. 
 
 
 
@@ -168,7 +168,7 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 
 #### Week 2 
 ##### In-class: 
-* Lecture: human-centered design introduction. "User"(participant) interviews and how-might-we statemens.
+* Lecture: human-centered design introduction. "User"(participant) interviews and how-might-we statements.
 
 * In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
 
@@ -292,7 +292,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 
 ##### HW: 
-* Update your prorotype based on feedback and post final link to the #homework channel on Slack.
+* Update your prototype based on feedback and post final link to the #homework channel on Slack.
 
 
 
@@ -306,7 +306,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 * If you didn’t get to finish this class exercise, The Coding Round Robin part 1, please do for next week:
 > The task was to make a project in glitch. The ask was to do the following prompts:
 
->> 1. Use <p> tags or <ol><ul> and <li> or <br />tags to make a list of things you would do or buy if you had all of jeff besos’ money. If you missed this assignement and want to answer a simpler question, simply list your favorite movies/or books/or colors so that they are not all in one paragraph but on separate lines. Basically the task if to list items.
+>> 1. Use <p> tags or <ol><ul> and <li> or <br />tags to make a list of things you would do or buy if you had all of Jeff Besos’(or another billionare's) money. If you missed this assignment and want to answer a simpler question, simply list your favorite movies/or books/or colors so that they are not all in one paragraph but on separate lines. Basically the task if to list items.
  
 >> 2. Find an image online that describes your current mood and add it to your index.html so that we can see it.
 
@@ -333,7 +333,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 * Review glitch project by students from last week. Questions? 
 * Lecture: accessibility in web design.
 * Lecture: CSS part II (lists, tables, forms and images, responsive layout).
-* Go over final project: simple, mobile-fiendly responsibe site. 
+* Go over final project: simple, mobile-friendly responsive website. 
 * In-class workshop: group work using glitch.com, implementing the HTML and CSS we learned so far! 
 
 
@@ -342,4 +342,4 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 * Work-in class session: work on your final project is a a simple, responsive site based on the culmination of your Glitch projects that you worked on in class and for homework. I will be here to help!
 
 #### Week 14 
-* Final group croque and resposive website share-out!
+* Final group critique and responsive website share-out!
