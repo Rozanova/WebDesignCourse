@@ -46,6 +46,7 @@ Students will design an app that will fit in one of the following categories:
 ### Readings: :book:
 
 [HTML&CSS] by John Duckett (http://htmlandcssbook.com/buy/)
+Also can be found [here](https://www.academia.edu/8407326/Jon_Duckett_HTML_And_CSS_Design_And_Build_Websites_2011)
 
 ### Suggested Reading: :book:
 [JavaScript & jQuery] by John Duckett (http://javascriptbook.com/buy/)
