@@ -342,5 +342,9 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 #### Week 13 
 * Work-in class session: work on your final project is a a simple, responsive site based on the culmination of your Glitch projects that you worked on in class and for homework. I will be here to help!
 
+##### HW: 
+* Finish your final project and prepare to present it next week in a group critique session.
+
 #### Week 14 
-* Final group critique and responsive website share-out!
+* Final group critique and responsive website share-out! 
+* Optional intro to javascropt workshop for those interested.
