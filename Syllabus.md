@@ -125,9 +125,7 @@ dishonesty include academic sanctions, such as failing or otherwise reduced grad
 disciplinary sanctions, including suspension or expulsion. Cheating is the unauthorized use or
 attempted use of material, information, notes, study aids, devices or communication during
 an academic exercise. Plagiarism is the act of presenting another person’s ideas, research
-or writings as your own. More information is available at http://sps.cuny.edu/acad_policies/
-acad_integrity.html
-
+or writings as your own.
 
 ### Grading
 
