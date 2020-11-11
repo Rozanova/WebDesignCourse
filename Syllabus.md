@@ -330,14 +330,15 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 #### Week 12 
 * Review glitch project by students from last week. Questions? 
-* Lecture: accessibility in web design.
-* Lecture: CSS part II (lists, tables, forms and images, *responsive* layout).
-* Go over final project: simple, mobile-friendly responsive website. 
+* Lecture: CSS part II (lists and images).
 * In-class workshop: group work using glitch.com, implementing the HTML and CSS we learned so far! 
+* Lecture: accessibility in web design.
 
 
 
 #### Week 13 
+* Lecture: Responsive layout
+* Go over final project: simple, mobile-friendly responsive website. 
 * Work-in class session: work on your final project is a a simple, responsive site based on the culmination of your Glitch projects that you worked on in class and for homework. I will be here to help!
 
 ##### HW: 
