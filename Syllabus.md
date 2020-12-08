@@ -337,7 +337,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 
 #### Week 13 
-* Lecture: Responsive layout
+* Lecture: Responsive design - making your website resize to different size browser viewports and devices. Mobile-fist design.
 * Go over final project: simple, mobile-friendly responsive website that tells a story of your choice. This will be part of the class zine on Glitch.com. 
 * Work-in class session: Exercise making a responsive page. I will be around to hold help sessions during this work-in-class time. 
 * Share-out and Q&A in group setting.
