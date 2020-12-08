@@ -338,12 +338,13 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 #### Week 13 
 * Lecture: Responsive layout
-* Go over final project: simple, mobile-friendly responsive website. 
-* Work-in class session: work on your final project is a a simple, responsive site based on the culmination of your Glitch projects that you worked on in class and for homework. I will be here to help!
+* Go over final project: simple, mobile-friendly responsive website that tells a story of your choice. This will be part of the class zine on Glitch.com. 
+* Work-in class session: Exercise making a responsive page. I will be around to hold help sessions during this work-in-class time. 
+* Share-out and Q&A in group setting.
 
 ##### HW: 
-* Finish your final project and prepare to present it next week in a group critique session.
+* Your in-cass assignment. 
 
 #### Week 14 
-* Final group critique and responsive website share-out! 
-* Optional intro to javascropt workshop for those interested.
+* Final in class coding session. Create a simple, mobile-friendly responsive website that tells a story of your choice (at least three linked pages, use both HTML and CSS). This will be part of the class zine on Glitch.com. 
+* Optional intro to javascript workshop for those interested.
