@@ -1,7 +1,7 @@
 # Web Design I 
 ### :art::pencil::computer:
 ##### Taught by: Katya Rozanova
-##### kr2176@nyu.edu 
+##### krozanova@qc.cuny.edu or katya.rozanova@gmail.com or kr2176@nyu.edu
 ##### [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUl6MGVCbmRqLXU2fGRlZmF1bHR8YWNiY2U3Njc4NWU0OGE1ZjU3N2E4ZTE0ZTUyNGYyZDg)
 
 > "I have been making websites from scratch by writing html and css, simply because i like to and not so simply because i reject the move fast and break things ethos with which so much of the internet has been built upon." 
