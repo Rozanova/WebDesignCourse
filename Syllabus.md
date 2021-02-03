@@ -116,7 +116,6 @@ will be marked as Late for the entire class.
 Late assignments will be given a one-quarter letter grade reduction for each class they are
 late. Missing assignments will be given a grade of F.
 
-If you know you are going to be absent, contact the professor by email in advance. For the most up-to-date information (including what is due next class) visit the class’s Discord channel (to which you have been invited).
 
 
 ### Academic Integrity
@@ -169,17 +168,17 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 
 #### Week 2 
 ##### In-class: 
-* Lecture: human-centered design introduction. "User"(participant) interviews and how-might-we statements.
+* Lecture: human-centered design introduction. "User"(participant) interviews.
 
-* In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
+* In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. (this will be partially a group activity)
 
 ##### HW: 
 
-* Decide what your website will be and blog it. 1-2 sentences.
+*  (due next week) Continue interviewing and recording the interviews.
+Post the results (written out answers) of at least five interviews to the blog. 
 
-* Interviews for your idea. Come up with questions for both regular *user interviews* and *expert interviews*. Blog it.
+* (due in two weeks)Think about what type of website you would want to design in this class. Describe this project, in your blog, in a few sentences and start a mood board for it on your are.na account (at least 3 images). Hint: Will it be a realistic site that showcases your artwork, or a website for a service or product (real or fictitious), a playful site (experimental art piece - net art ), a game, a choose-your-own adventure story, a critical design website, or a speculative design website.
 
-* Frame your design challenge. In other words, come up with a “How might we” statement.  Blog it.
 
 
 
@@ -187,36 +186,19 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 #### Week 3 
 ##### In-class: 
 * Students present homework and get feedback from class.
-* Lecture: personas and archetypes, journey maps, competitive analysis for the in-class design challenge.
-* In-class activity: craft personas and archetypes and journey maps for the design challenge we started in class.  
-
+* Lecture: Synthesizing research. 
+* In-class activity: Let's brainstorm on Miro board using our collected research from the interviewing process. 
 
 
 
 ##### HW: 
-* Finish and refine personas and archetypes, journey maps, and create a competitive analysis for the design challenge we started in class. Post to blog. 
-* Continue collecting and documenting interviews. Interview a total of 10 people.
-* Reach out to more experts to interview or follow up with ones already contacted.
-* Post all relevant links(blog and/or are.na) to Discord channel #completed-asignments.
-
+* Think about what type of website you would want to design in this class. Describe this project, in your blog, in a few sentences and start a mood board for it on your are.na account (at least 3 images). Hint: Will it be a realistic site that showcases your artwork, or a website for a service or product (real or fictitious), a playful site (experimental art piece - net art ), a game, a choose-your-own adventure story, a critical design website, or a speculative design website. 
 
 
 #### Week 4
 ##### In-class: 
 
 
-* Class critique: critique a few projects as a group
-30 min
-
-* Lecture: affinity mapping and research insights for the design challenge we started in class. Synthesizing research.
-
-* In-class activities: affinity mapping (for the design challenge we started in class) in groups. Share-out with the class.
-
-* Lecture: secondary research & competitive analysis, as well as feature priority, for the design challenge we started in class. 
-
-
-##### HW:  
-* Finish class exercises for the in-class design project: affinity mapping, secondary research, competitive analysis, Feature priority. 
 
 *Come up with your own idea for an website - is it a portfolio site? A speculative art website? A civic tech digital product?  
 
@@ -227,17 +209,25 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 >> * and come up with a list of insights, solutions, and features. 
 
 > If you decide to create a portfolio site:
->> * find at least ten portfolio site inspirations and add to your mood board,
+>> * Find at least ten portfolio site inspirations and add to your mood board,
 >> * Find examples of bio pages from other portfolios
 >> * Craft a bio statement or artist statement of your own.
 >> * Select which works you will feature and place them into a folder on your computer.  Write out a list and categorize these items into sections. 
 
-* Post all relevant links(blog and/or are.na) to tDiscord channel #completed-asignments.
+> If you decide to create a speculative design webite:
+>> * Find at least ten portfolio site inspirations and add to your mood board,
+>> * Find examples of bio pages from other portfolios
+
+> If you decide to create a work of art (net art)
+>> * 
+>> * Craft an artist statement for the piece.
+
+
+* Post all relevant links(blog and/or are.na) to Discord channel #completed-asignments.
 
 #### Week 5 
 ##### In-class: 
 
-* Class critique: students present competitive analysis and features. 
 * Lecture: website structuring, site mapping, grids, logo and identity. 
 
   
@@ -272,33 +262,19 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 
 
-#### Week 8 
-##### In-class: 
-
-* Lecture: usability testing techniques.
-* In-class activity: test your sites on one another in groups. Use feedback to inform your designs. 
-
-##### HW: 
- 
-* Read chapters 1-8 in the text book for next week! 
-* Make an account https://glitch.com/
-* The link to your clickable prototype is the midterm and it’s due next week.
-
-
-
-
-#### Week 9
+#### Week 8
 ##### In-class: 
 * In-class activity: presenting and testing out our website prototypes as a group (this is our midterm!). Feedback and critique.
 
 
 ##### HW: 
 * Update your prototype based on feedback and post final link Discord channel #completed-asignments.
+* Read chapters 1-8 in the text book for next week! 
+* Make an account https://glitch.com/
 
 
 
-
-#### Week 10 
+#### Week 9 
 ##### In-class: 
 * Lecture: Intro to HTML
 * In-class workshop: Using Glitch for [Hand-Coding Round Robin](https://docs.google.com/document/d/1bhcmVsHF8MGJ3hmRauVBUyU4qrxfL1W6bpU4wV0gf1I/edit) (written by Emma Rae Norton and adopted for this class by me)
@@ -317,7 +293,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 * Read chapters 10-13 for next week!
 
 
-#### Week 11
+#### Week 10
 ##### In-class: 
 * Review glitch project by students from last week. Questions?
 * Lecture: HTML part 2 and intro to CSS part I (Color, Type, Boxes).
@@ -330,7 +306,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 
 
-#### Week 12 
+#### Week 11 
 * Review glitch project by students from last week. Questions? 
 * Lecture: CSS part II (lists and images).
 * In-class workshop: group work using glitch.com, implementing the HTML and CSS we learned so far! 
@@ -338,7 +314,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 
 
-#### Week 13 
+#### Week 12 
 * Lecture: Responsive design - making your website resize to different size browser viewports and devices. Mobile-fist design.
 * Go over final project: simple, mobile-friendly responsive website that tells a story of your choice. This will be part of the class zine on Glitch.com. 
 * Work-in class session: Exercise making a responsive page. I will be around to hold help sessions during this work-in-class time. 
@@ -347,6 +323,11 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 ##### HW: 
 * Your in-cass assignment. 
 
-#### Week 14 
+#### Week 13 
+* Lecture: Responsive design continued.
+* Work-in class session: Exercise making a responsive page. I will be around to hold help sessions during this work-in-class time. 
+* Share-out and Q&A in group setting.
+
+#### Week 14
 * Final in class coding session. Create a simple, mobile-friendly responsive website that tells a story of your choice (at least three linked pages, use both HTML and CSS). This will be part of the class zine on Glitch.com. 
 * Optional intro to javascript workshop for those interested.
