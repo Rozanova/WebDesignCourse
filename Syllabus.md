@@ -28,6 +28,10 @@ On phase two of the course, the website “development” portion, is where stud
 ### Things to bring to class:
 :notebook: notebook & :pencil: pencil or :pen: pen
 
+### Reading
+ * [HTM & CSS by John Duckett](https://dominicanart227.files.wordpress.com/2019/08/duckett.pdf)
+ * [“How to think differently about doing good as a creative person” by Omayeli Arenyeka.](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger) 
+
 
 
 ### Tools we will use:
@@ -160,9 +164,17 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 
 ##### HW: 
 
-* Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
+*(Due in a week) Continue interviewing and recording the interviews.
+Post the results (written out answers) of at least five interviews to the blog. 
 
-* Post are.na and blog links to Discord channel #studentblogs
+* (Due in a week)Please read [“How to think differently about doing good as a creative person” by Omayeli Arenyeka](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger). 
+Respond with your impressions in one or more paragraphs.
+
+* (Due in two weeks) Start to think about what type of website you would want to design in this class. Describe it in a few sentences and start a mood board for it on your are.na account (at least 3 images). 
+Hint: Will it be a realistic site that showcases your artwork, or a website for a service or product (real or fictitious), a playful site (experimental art piece - net art ), a game, a choose-your-own adventure story, a critical design website, or a speculative design website.
+
+
+
 
 
 
@@ -269,7 +281,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 ##### HW: 
 * Update your prototype based on feedback and post final link Discord channel #completed-asignments.
-* Read chapters 1-8 in the text book for next week! 
+* Read chapters 1-8 in the text book for next week!  [HTM & CSS by John Duckett](https://dominicanart227.files.wordpress.com/2019/08/duckett.pdf)
 * Make an account https://glitch.com/
 
 
@@ -290,7 +302,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 >> 3. Write out a question that you would like the next student (those name follows yours in the Google Sheet) to answer.
 >>4. Open the project of the student whose name follows yours (below) in the Google Sheet) and answer their question through text or image on the next line following their question.
 
-* Read chapters 10-13 for next week!
+* Read chapters 10-13 for next week! [HTM & CSS by John Duckett](https://dominicanart227.files.wordpress.com/2019/08/duckett.pdf)
 
 
 #### Week 10
@@ -300,7 +312,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 * In-class workshop: group work using glitch.com, implementing the HTML and CSS we learned so far! 
 
 ##### HW: 
-* Read chapters 14-17 in the text book!
+* Read chapters 14-17 in the text book! [HTM & CSS by John Duckett](https://dominicanart227.files.wordpress.com/2019/08/duckett.pdf)
 
 
 
