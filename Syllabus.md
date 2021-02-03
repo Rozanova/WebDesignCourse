@@ -31,7 +31,7 @@ On phase two of the course, the website “development” portion, is where stud
 
 
 ### Tools we will use:
-[Figma](https://www.figma.com/) (or Adobe XD, if you prefer. I cover both), Google Jam Board, a blog (like Medium, Tumblr, or a blog of your choice), are.na (or Pinterest), and Slack. 
+[Figma](https://www.figma.com/),(or Adobe XD, if you prefer. I cover both), Glitch, Google Slides and Calendar, Atom, Miro, a blog (like Medium, Tumblr, or a blog of your choice), are.na (or Pinterest), and Discord. 
 
 
 
@@ -116,7 +116,7 @@ will be marked as Late for the entire class.
 Late assignments will be given a one-quarter letter grade reduction for each class they are
 late. Missing assignments will be given a grade of F.
 
-If you know you are going to be absent, contact the professor by email in advance. For the most up-to-date information (including what is due next class) visit the class’s Slack channel (to which you have been invited).
+If you know you are going to be absent, contact the professor by email in advance. For the most up-to-date information (including what is due next class) visit the class’s Discord channel (to which you have been invited).
 
 
 ### Academic Integrity
@@ -152,16 +152,18 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 #### Week 1 
 ##### In-class: 
 * Course introduction. 
-* Syllabus review.
+* Ice breakers and discussion of individual goals and design interests.
 * Design theory and intro to human-centered design.
-* Discussion of individual goals and design interests.
+* How is UX related to web design?
+* Net art!
+* Syllabus review.
 * Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
 
 ##### HW: 
 
 * Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
 
-* Post are.na and blog links to Slack channel #studentblogs
+* Post are.na and blog links to Discord channel #studentblogs
 
 
 
@@ -195,7 +197,7 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 * Finish and refine personas and archetypes, journey maps, and create a competitive analysis for the design challenge we started in class. Post to blog. 
 * Continue collecting and documenting interviews. Interview a total of 10 people.
 * Reach out to more experts to interview or follow up with ones already contacted.
-* Post all relevant links(blog and/or are.na) to Slack channel #homework.
+* Post all relevant links(blog and/or are.na) to Discord channel #completed-asignments.
 
 
 
@@ -230,7 +232,7 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 >> * Craft a bio statement or artist statement of your own.
 >> * Select which works you will feature and place them into a folder on your computer.  Write out a list and categorize these items into sections. 
 
-* Post all relevant links(blog and/or are.na) to to Slack channel #homework.
+* Post all relevant links(blog and/or are.na) to tDiscord channel #completed-asignments.
 
 #### Week 5 
 ##### In-class: 
@@ -255,7 +257,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 * Hand-drawn wireframes (3 hand-drawn screens that you will upload to blog)
 * Digital b&w (grey scale) wireframes (with color only used as callouts or descriptions). (3 screens total for your blog)
 * Three flushed out design directions for your homepage. This means 3 different styles (colors, fonts, layout) in 3 sizes. (That’s 9 images hat you will upload to upload to blog)
-* Post all relevant links(blog and/or are.na) to to Slack channel #homework.
+* Post all relevant links(blog and/or are.na) to Discord channel #completed-asignments..
 
 
 
@@ -291,7 +293,7 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 
 
 ##### HW: 
-* Update your prototype based on feedback and post final link to the #homework channel on Slack.
+* Update your prototype based on feedback and post final link Discord channel #completed-asignments.
 
 
 
