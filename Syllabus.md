@@ -28,11 +28,6 @@ On phase two of the course, the website “development” portion, is where stud
 ### Things to bring to class:
 :notebook: notebook & :pencil: pencil or :pen: pen
 
-### Reading
- * [HTM & CSS by John Duckett](https://dominicanart227.files.wordpress.com/2019/08/duckett.pdf)
- * [“How to think differently about doing good as a creative person” by Omayeli Arenyeka.](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger) 
-
-
 
 ### Tools we will use:
 [Figma](https://www.figma.com/),(or Adobe XD, if you prefer. I cover both), Glitch, Google Slides and Calendar, Atom, Miro, a blog (like Medium, Tumblr, or a blog of your choice), are.na (or Pinterest), and Discord. 
@@ -51,7 +46,8 @@ Students will design an app that will fit in one of the following categories:
 
 [HTML&CSS] by John Duckett (http://htmlandcssbook.com/buy/)
 Also can be found [here](https://www.academia.edu/8407326/Jon_Duckett_HTML_And_CSS_Design_And_Build_Websites_2011)
-
+ * [“How to think differently about doing good as a creative person” by Omayeli Arenyeka.](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger) 
+ 
 ### Suggested Reading: :book:
 [JavaScript & jQuery] by John Duckett (http://javascriptbook.com/buy/)
 
