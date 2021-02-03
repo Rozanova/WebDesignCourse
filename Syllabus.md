@@ -160,14 +160,18 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 
 ##### HW: 
 
-*(Due in a week) Continue interviewing and recording the interviews.
-Post the results (written out answers) of at least five interviews to the blog. 
+* Set up a blog (try Medium?) for your work in this class. This blog should allow you to post images, text, and links (so it can’t be instagram). 
+Please post to the #studentblogs channel in Discord.
 
-* (Due in a week)Please read [“How to think differently about doing good as a creative person” by Omayeli Arenyeka](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger). 
-Respond with your impressions in one or more paragraphs.
+* Write a paragraph as your first blog post that attempts to answer or comments on the following question: How are art and design related? 
+Please post to your blog and post the blog link to #completed-assignments.
 
-* (Due in two weeks) Start to think about what type of website you would want to design in this class. Describe it in a few sentences and start a mood board for it on your are.na account (at least 3 images). 
-Hint: Will it be a realistic site that showcases your artwork, or a website for a service or product (real or fictitious), a playful site (experimental art piece - net art ), a game, a choose-your-own adventure story, a critical design website, or a speculative design website.
+
+* Answering the following question using words (a few sentence/poem) or images: What type of design and art (analogue or digital, traditional or new media, doesn’t matter!) are you most interested in? 
+Please post to your blog and post the blog link to #completed-assignments.
+
+*Set up an are.na or pinterest board to collect inspirations for web design. You will use it as a mood board moving forward.
+Please send to me and post into the #inspirations channel in Discord. 
 
 
 
@@ -182,10 +186,15 @@ Hint: Will it be a realistic site that showcases your artwork, or a website for 
 
 ##### HW: 
 
-*  (due next week) Continue interviewing and recording the interviews.
+*(Due in a week) Continue interviewing and recording the interviews.
 Post the results (written out answers) of at least five interviews to the blog. 
 
-* (due in two weeks)Think about what type of website you would want to design in this class. Describe this project, in your blog, in a few sentences and start a mood board for it on your are.na account (at least 3 images). Hint: Will it be a realistic site that showcases your artwork, or a website for a service or product (real or fictitious), a playful site (experimental art piece - net art ), a game, a choose-your-own adventure story, a critical design website, or a speculative design website.
+* (Due in a week)Please read [“How to think differently about doing good as a creative person” by Omayeli Arenyeka](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger). 
+Respond with your impressions in one or more paragraphs.
+
+* (Due in two weeks) Start to think about what type of website you would want to design in this class. Describe it in a few sentences and start a mood board for it on your are.na account (at least 3 images). 
+Hint: Will it be a realistic site that showcases your artwork, or a website for a service or product (real or fictitious), a playful site (experimental art piece - net art ), a game, a choose-your-own adventure story, a critical design website, or a speculative design website.
+
 
 
 
