@@ -20,7 +20,7 @@
 This course is designed to teach students how to design user experiences (UX) for the web  while considering what types of digital products can and should be put out into the world as tools for the day-to-day (i.e. portfolio websites or social media platforms), as speculative art projects, or as critical design - forms of resistance to existing systems in place. 
 
 The first part of the course is the design phase, which focuses on Human-Centered Design methodologies and competitive analysis, information architecture, rapid prototyping and usability testing. 
-After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental app that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  Students will familiarize themselves with designing low and high fidelity wireframes for responsive web using the 960 grid system. They will use Figma or Adobe XD to create clickable prototypes and test their assumptions through usability tests. Lastly, they will learn how to present and defend their design decisions un group critiques. 
+After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental app that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  Students will familiarize themselves with designing low and high fidelity wireframes for responsive web. They will use Figma or Adobe XD to create clickable prototypes and test their assumptions through usability tests. Lastly, they will learn how to present and defend their design decisions un group critiques. 
 
 
 On phase two of the course, the website “development” portion, is where students will learn basics of web development. Students will learn front-end programming languages like HTML, CSS and some JavaScript to create responsive, mobile-first design for the browser. This part of the course will emphasize group work. Glitch will be used to code collaboratively. 
@@ -346,5 +346,8 @@ Lecture: sketching and wireframing by hand and digitally (Figma and Adobe XD).
 * Share-out and Q&A in group setting.
 
 #### Week 14
+* Work in class session and help sessions
+
+ #### Week 15
 * Final in class coding session. Create a simple, mobile-friendly responsive website that tells a story of your choice (at least three linked pages, use both HTML and CSS). This will be part of the class zine on Glitch.com. 
 * Optional intro to javascript workshop for those interested.
