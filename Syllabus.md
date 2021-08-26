@@ -20,7 +20,7 @@
 This course is designed to teach students how to design user experiences (UX) for the web  while considering what types of digital products can and should be put out into the world as tools for the day-to-day (i.e. portfolio websites or social media platforms), as speculative art projects, or as critical design - forms of resistance to existing systems in place. 
 
 The first part of the course is the design phase, which focuses on Human-Centered Design methodologies and competitive analysis, information architecture, rapid prototyping and usability testing. 
-After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental app that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  Students will familiarize themselves with designing low and high fidelity wireframes for responsive web. They will use Figma or Adobe XD to create clickable prototypes and test their assumptions through usability tests. Lastly, they will learn how to present and defend their design decisions un group critiques. 
+After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental websites that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  Students will familiarize themselves with designing low and high fidelity wireframes for responsive web. They will use Figma or Adobe XD to create clickable prototypes and test their assumptions through usability tests. Lastly, they will learn how to present and defend their design decisions un group critiques. 
 
 
 On phase two of the course, the website “development” portion, is where students will learn basics of web development. Students will learn front-end programming languages like HTML, CSS and some JavaScript to create responsive, mobile-first design for the browser. This part of the course will emphasize group work. Glitch will be used to code collaboratively. 
@@ -30,7 +30,7 @@ On phase two of the course, the website “development” portion, is where stud
 
 
 ### Tools we will use:
-[Figma](https://www.figma.com/),(or Adobe XD, if you prefer. I cover both), Glitch, Google Slides and Calendar, Atom, Miro, a blog (like Medium, Tumblr, or a blog of your choice), are.na (or Pinterest), and Discord. 
+[Figma](https://www.figma.com/),(or Adobe XD, if you prefer. I cover both), Glitch, Atom, Miro, Behance portfolio accounts, Google Classroom, and Discord. 
 
 
 
@@ -53,7 +53,7 @@ Also can be found [here](https://www.academia.edu/8407326/Jon_Duckett_HTML_And_C
 
 ### Optional Listening: :book:
 
-[Design and Democracy by Gui iepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
+[Design and Democracy by Gui Bonsiepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
 
 ### Assessment and grading
 Where applicable, all projects will be evaluated according to the following criteria
@@ -74,10 +74,10 @@ How well the work meets professional standards, in terms of quality of resolutio
 The degree of improvement in the quality of a student’s work over the course of the
 semester may also be considered in the evaluation of a final grade.
 Your final grade will be assessed according to the percentages below:
-* Homework assignment completion.............50%
+* Homework assignment completion.............40%
 * Quality of work: ..........................10%
 * Midterm: ..................................10%
-* Attendance: ...............................10%
+* Attendance: ...............................20%
 * Participation: ............................10%
 * Final: ....................................10%
 
@@ -153,16 +153,19 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 * Course introduction. 
 * Ice breakers and discussion of individual goals and design interests.
 * Syllabus review.
-* Setting up behance, sharing emails and blogs with the instructor. 
+* Setting up behance.
+* Sharing your school emails with the instructor. 
 
 ##### HW: 
 
-* Set up a Behance. 
+* 1. Set up a Behance. 
 
-* 1. Write a paragraph as your first behance post that attempts to answer or comment on the following question: How are art and design related? 
+* 2. Write a paragraph as your first behance post that attempts to answer or comment on the following question: How are art and design related? 
 Please email me this post. 
 
-* 2. Answering the following question using words (a few sentence/poem) or images: What type of design and art (analogue or digital, traditional or new media, doesn’t matter!) are you most interested in?  Please email me this post.
+* 3. Answering the following question using words (a few sentence/poem) or images: What type of design and art (analogue or digital, traditional or new media, doesn’t matter!) are you most interested in?  Please email me this post.
+
+* 4. Send me your school email please asap. It's for our google Classroom.
 
 
 
