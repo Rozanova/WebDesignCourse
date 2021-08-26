@@ -159,12 +159,10 @@ Student has not completed 1⁄3 of the course work and has missed too many class
 
 * Set up a Behance. 
 
-* Write a paragraph as your first blog post that attempts to answer or comments on the following question: How are art and design related? 
-Please email me the account. 
+* 1. Write a paragraph as your first behance post that attempts to answer or comment on the following question: How are art and design related? 
+Please email me this post. 
 
-
-* Answering the following question using words (a few sentence/poem) or images: What type of design and art (analogue or digital, traditional or new media, doesn’t matter!) are you most interested in? 
-Please post to your blog and post the blog link to #completed-assignments.
+* 2. Answering the following question using words (a few sentence/poem) or images: What type of design and art (analogue or digital, traditional or new media, doesn’t matter!) are you most interested in?  Please email me this post.
 
 
 
