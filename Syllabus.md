@@ -174,9 +174,11 @@ Please email me this post.
 
 #### Week 2 
 ##### In-class: 
-* Lecture: human-centered design introduction. "User"(participant) interviews.
-
+* Lecture:  Design theory and intro to human-centered design.
+* Discussion: How is UX related to web design?
+* Discussion: Net art!
 * In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. (this will be partially a group activity)
+* Go over how to start a behance collection to gather inspirations.
 
 ##### HW: 
 
@@ -186,7 +188,7 @@ Post the results (written out answers) of at least five interviews to the blog.
 * (Due in a week)Please read [“How to think differently about doing good as a creative person” by Omayeli Arenyeka](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger). 
 Respond with your impressions in one or more paragraphs.
 
-* (Due in two weeks) Start to think about what type of website you would want to design in this class. Describe it in a few sentences and start a mood board for it on your are.na account (at least 3 images). 
+* (Due in two weeks) Start to think about what type of website you would want to design in this class. Describe it in a few sentences and start a mood board for it on an are.na account or a pinterest or  a collection of images that you place in your Behance project titled "inspiration" or start a Behance collection of insprations(at least 3 images). 
 Hint: Will it be a realistic site that showcases your artwork, or a website for a service or product (real or fictitious), a playful site (experimental art piece - net art ), a game, a choose-your-own adventure story, a critical design website, or a speculative design website.
 
 
