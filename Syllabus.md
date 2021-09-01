@@ -179,7 +179,7 @@ Please email me this post.
 * Discussion: How is UX related to web design?
 * Discussion: Net art!
 * In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. (this will be partially a group activity)
-* Go over how to start a behance collection to gather inspirations.
+* Start a mood board - at least 3 images (of a site, or a visual design, or a color scheme) that may inform your visual aesthetic.
 
 ##### HW: 
 
