@@ -46,7 +46,7 @@ Students will design an app that will fit in one of the following categories:
 ### Readings: :book:
 
 [HTML&CSS] by John Duckett (http://htmlandcssbook.com/buy/)
-Also can be found [here](https://www.academia.edu/8407326/Jon_Duckett_HTML_And_CSS_Design_And_Build_Websites_2011)
+Also can be found [here](https://wtf.tw/ref/duckett.pdf)
  * [“How to think differently about doing good as a creative person” by Omayeli Arenyeka.](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/#danger) 
  
 ### Suggested Reading: :book:
